@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Welcome to Wellness Weird"
+image: /assets/img/wellness.jpg
 ---
+
+Welcome to **Wellness Weird**...
 
 Welcome to **Wellness Weird** — a space where strange, unconventional,
 and science-backed wellness ideas are explored.
