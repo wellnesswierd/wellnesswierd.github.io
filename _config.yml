@@ -1,4 +1,8 @@
 title: Wellness Weird
-description: Strange, science-backed wellness ideas explained simply.
-theme: jekyll-theme-minimal
-markdown: kramdown
+tagline: Strange wellness ideas that actually work
+description: A modern wellness blog exploring weird, science-backed health practices.
+url: https://wellnesswierd.github.io
+
+theme: jekyll-theme-chirpy
+
+paginate: 5
