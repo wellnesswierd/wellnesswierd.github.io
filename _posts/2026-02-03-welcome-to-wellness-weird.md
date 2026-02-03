@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to Wellness Weird"
-image: /assets/img/wellness.jpg
+image: /assets/img/pexels-victorfreitas-841130.jpg
 ---
 
 Welcome to **Wellness Weird**...
